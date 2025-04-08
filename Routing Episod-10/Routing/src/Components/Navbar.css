@@ -1,0 +1,10 @@
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(179, 179, 187);
+}
+
+.active-link {
+  border: 1px solid red;
+}

@@ -1,0 +1,11 @@
+.user-container{
+    background-color: rgb(38, 36, 36);
+    padding: 20px;
+    /* display: flex; */
+
+}
+
+#user-image{
+    height: 100px;
+    border-radius: 50%;
+}
